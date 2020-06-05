@@ -1,5 +1,6 @@
 '''
 coding=utf8
+尝试简化push/pull
 modified at 2020.06.05
 '''
 
